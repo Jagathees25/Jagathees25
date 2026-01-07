@@ -12,9 +12,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Jagathees25&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jagathees25&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=Jagathees25&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
